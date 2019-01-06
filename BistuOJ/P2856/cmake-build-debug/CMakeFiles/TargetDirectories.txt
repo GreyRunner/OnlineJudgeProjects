@@ -1,0 +1,3 @@
+/Users/oliveryang/ClionProjects/BistuOJ/P2856/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oliveryang/ClionProjects/BistuOJ/P2856/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oliveryang/ClionProjects/BistuOJ/P2856/cmake-build-debug/CMakeFiles/P2856.dir

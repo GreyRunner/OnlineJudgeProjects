@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oliveryang/ClionProjects/luoguOJ/T22519 Newton的苹果（3）/main.cpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+algorithm
+-
+

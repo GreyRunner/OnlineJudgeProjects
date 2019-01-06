@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oliveryang/ClionProjects/luoguOJ/P2802/main.cpp
+string
+-
+iostream
+-
+algorithm
+-
+cstdio
+-
+cstring
+-
+cmath
+-
+queue
+-
+
