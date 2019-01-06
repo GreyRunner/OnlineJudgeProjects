@@ -1,0 +1,6 @@
+项目中，每一个以题号命名的文件夹都是一个工程，用Clion打开即可，也可以只选择其中的main.cpp来使用。C++标准选择C++14。
+
+windows平台：下载安装Clion打开工程即可。需要自行安装mingw64。
+Linux：下载安装Clion打开工程即可。若无法编译，请安装gcc。通过apt-get命令获取
+mac osx：下载安装Clion打开工程即可。若编译有问题，请配置Clang作为编译器。
+
